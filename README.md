@@ -35,10 +35,8 @@ The curated list of resources for research and learning about stock trading and 
 - [Morningstar](https://www.morningstar.com) - Provides investment research, ratings, and tools for stocks, mutual funds, and ETFs.
 - [Seeking Alpha](https://seekingalpha.com) - Offers market news and analysis, portfolio management tools, and investment ideas from contributors.
 - [Simply Wall St](https://simplywall.st/) - Simply Wall St. has a unique pictorial approach to quickly and effectively cut through the massive amounts of data to narrow to a select few candidates.
-- [Strike.Market](https://strike.market) - Offers a platform for trading options and derivatives on cryptocurrency markets.
 - [Tip Ranks](https://www.tipranks.com) - Provides ratings and analysis of stocks and financial experts based on their historical performance.
 - [Wall Street Zen](https://www.wallstreetzen.com) - Offers tools for financial analysis, screening, and backtesting of investment strategies.
-- [Wallmine](https://wallmine.com) - Provides stock analysis, screening, and news for individual investors.
 - [Zacks](https://www.zacks.com) - Provides research, analysis, and ratings for stocks and funds based on quantitative models and fundamental data.
 
 ## Market Analysis
@@ -53,8 +51,6 @@ The curated list of resources for research and learning about stock trading and 
 - [Market Beat Stock Screener](https://www.marketbeat.com/stock-screener/) - US stock market screener that allows filtering stocks by market cap, sector, industry, and more.
 - [Simply Wall St Stock Screener](https://simplywall.st/features/stock-screener) - Global stock screener that allows filtering stocks by market cap, sector, industry, and more.
 - [Tip Ranks Stock Screener](https://www.tipranks.com/screener) - International stock market screener that allows filtering stocks by market cap, sector, industry, and more.
-- [Trading Terminal Scanner](https://scanner.tradingterminal.com) - US market stock screener that allows filtering stocks by market cap, sector, industry, and more.
-- [Wallmine Free Stock Screener](https://wallmine.com/screener) - Free stock screener that allows filtering stocks by market cap, sector, industry, and more.
 - [Wallstreet Zen Stock Screener](https://www.wallstreetzen.com/stock-screener) - Free US stock market screener that allows filtering stocks by market cap, sector, industry, and more.
 - [Zacks Stock Screener](https://www.zacks.com/stock-screener) - US stock market screener that allows filtering stocks by market cap, sector, industry, and more.
 
@@ -75,13 +71,14 @@ The curated list of resources for research and learning about stock trading and 
 
 ## Commentaries
 - [J.P. Morgan - Market Updates](https://am.jpmorgan.com/us/en/asset-management/adv/insights/market-insights/market-updates/) - Weekly commentaries to get market insights from J.P. Morgan.
+- [MSCI - Market Insights](https://www.msci.com/research-and-insights/market-insights) - Market commentaries and research reports with a focus on macroeconomic topics.
 
 ## Portfolio Tracker
+- [Ghostfolio](https://ghostfol.io) - Open-source portfolio tracker for stocks, ETFs, and crypto with multi-account aggregation and performance analysis.
 - [Portfolio Visualizer](https://portfoliovisualizer.com) - Portfolio management and analysis tool that provides portfolio optimization, backtesting, and risk analysis.
-- [Wealthica](https://www.wealthica.com) - Wealth management platform that provides portfolio management, financial planning, and investment research.
+- [Wealthica](https://www.wealthica.com) - Wealth management platform that provides portfolio management, financial planning, and investment research (Canada-focused).
 
 ## Strategy Backtesting
-- [Screening Tale](https://www.screeningtale.com) - Backtesting platform that allows users to test their trading strategies on historical data.
 - [QuantConnect](https://www.quantconnect.com) - Algorithmic trading platform that provides backtesting, live trading, and research tools for stocks, forex, and cryptocurrencies.
 
 ## Stock Picks
@@ -97,14 +94,15 @@ The curated list of resources for research and learning about stock trading and 
 - [StockTwits Top 10](https://stocktwits.com/rankings/trending) - StockTwits' list of the top 10 trending stocks.
 
 ## Stock APIs
+- [Adanos Sentiment API](https://adanos.org/) - Sentiment API aggregating Reddit, X, financial news, and Polymarket data for US stocks and crypto.
 - [Alpha Vantage](https://www.alphavantage.co/) - Alpha Vantage offers free APIs for realtime and historical stock data, forex, and cryptocurrency data.
 - [Eodhistoricaldata](https://eodhistoricaldata.com) - Eodhistoricaldata offers APIs for realtime and historical stock data, forex, and cryptocurrency data.
+- [Financial Modeling Prep](https://site.financialmodelingprep.com/) - Financial Modeling Prep API provides real time stock price, company financial statements, major index prices, stock historical data, forex real time rate and cryptocurrencies.
 - [MarketStack](https://marketstack.com) - MarketStack offers APIs for realtime and historical stock data, forex, and cryptocurrency data.
+- [Massive](https://massive.com/) - Tick-level US equities, options, indices, forex, and crypto data via REST, WebSockets, and flat files (formerly Polygon.io, rebranded 2025).
 - [Morningstar](https://developer.morningstar.com) - Provides data, research, and reports.
 - [Nasdaq Data Link](https://data.nasdaq.com) - Nasdaq Data Link offers a premier source for financial, economic and alternative datasets.
-- [Polygon](https://polygon.io/) - Polygon offers APIs for realtime and historical stock data, forex, and cryptocurrency data.
 - [Refinitiv Eikon Data](https://www.refinitiv.com/en/products/eikon-trading-software/eikon-app-api-innovation/eikon-data-api) - The Eikon Data API allows applications to access data directly from Eikon or Refinitv Workspace.
-
 
 ## Knowledge
 - [Investopedia](https://www.investopedia.com) - Investopedia.com is a website that provides educational content, news, analysis, and tools related to investing, finance, and business.
@@ -113,7 +111,7 @@ The curated list of resources for research and learning about stock trading and 
 
 ## Books
 
-#### Value Investing and Fundamental Analysis
+### Value Investing and Fundamental Analysis
 
 - [Berkshire Hathaway Letters to Shareholders](https://www.goodreads.com/book/show/22393486-berkshire-hathaway-letters-to-shareholders) - Warren Buffett, 2016 </br>
 For nearly six decades, Warren Buffett has written an annual letter to his shareholders. The letters, written between 1965 and 2014, reveal the investor's thoughts on investment strategy, share buybacks, corporate culture and much more.
@@ -154,7 +152,7 @@ The book describes the business and investment principles of value investing acc
 - [Value Investing: From Graham to Buffett and Beyond](https://www.goodreads.com/book/show/293636.Value_Investing) - Bruce C. N. Greenwald, 2004 </br>
 Greenwald explains the basic techniques of value investing and, in this context, illustrates their application using profiles of successful investors.
 
-#### Quantitative Investing and Portfolio Management
+### Quantitative Investing and Portfolio Management
 - [Active Portfolio Management](https://www.goodreads.com/book/show/537529.Active_Portfolio_Management) - Richard C. Grinold, Ronald Kahn, 1994 </br>
 In this book, Grinold and Kahn show how economics, econometrics, and operations research can be used to solve practical investment problems and identify profit opportunities.
 
@@ -164,7 +162,7 @@ A comprehensive explanation of analysis and calculation methods to help investor
 - [Quantitative Equity Portfolio Management](https://www.goodreads.com/book/show/264468.Quantitative_Equity_Portfolio_Management) - Ludwig B. Chincarini, Daehwan Kim, 2006 </br>
 The authors address the construction and management of a portfolio using quantitative methods. Among other things, they offer explanations of factor models and the prediction of premiums and exposures.
 
-#### General Stock Trading
+### General Stock Trading
 - [Beating the Street](https://www.goodreads.com/book/show/891835.Beating_the_Street) - Peter Lynch, 1992 </br>
 In the book, Lynch, a successful fund manager from 1977 to 1990, gives readers insight into his investment methods and tactics.
 
@@ -201,7 +199,7 @@ Jack Schwager interviews some of the most successful stock traders in the United
 - [Think & Trade Like a Champion](https://www.goodreads.com/book/show/34943907-think-trade-like-a-champion) - Mark Minervini, 2017 </br>
 In this book, Mark Minervini explains readers how to apply his methods step by step to enhance their trading performance and create the confidence they need to outperform.
 
-#### Trend Following
+### Trend Following
 - [Investing with Volume Analysis](https://www.goodreads.com/book/show/12664470-investing-with-volume-analysis) - Buff Dormeier, 2011 </br>
   Dormeier offers insights into using volume metrics to enhance stock trading strategies, providing a framework for interpreting price-volume relationships to predict market trends.
 
@@ -223,7 +221,7 @@ Through a proven technical approach, the book explains how to gauge the likeliho
 - [Trend Trading Set-Ups](https://www.goodreads.com/book/show/19569996-trend-trading-set-ups) - L. A. Little, 2012 </br>
 Building on the neoclassical concept, Little presents traders and investors with a robust methodology to discover promising trade setups and achieve precise timing for trade entry.
 
-#### Price Action Trading
+### Price Action Trading
 - [Price Action Breakdown](https://www.goodreads.com/book/show/29460388-price-action-breakdown) - Laurentiu Damir, 2016 </br>
 This book provides a comprehensive guide to trading pure price action analysis. It covers concepts, ideas and trading methods based on pure price action and can be applied to various financial markets.
 
@@ -239,7 +237,7 @@ Anna Coulling provides an in-depth examination of volume price analysis in stock
 - [Trading Price Action Trends](https://www.goodreads.com/book/show/19169498-trading-price-action-trends) - Al Brooks, 2011 </br>
 Al Brooks' book is intended as a practical guide to profiting from institutional trading trends.  The book breaks down Brooks' trading system into its essential components such as institutional piggybacking or trend trading.
 
-#### Behavioral Finance and Psychological Aspect of Investing
+### Behavioral Finance and Psychological Aspect of Investing
 - [Irrational Exuberance](https://www.goodreads.com/book/show/100132.Irrational_Exuberance) - Robert J. Shiller, 2000 </br>
 Robert J. Shiller's book addresses the psychological and behavioral factors that influence financial markets. It explores the concept of speculative bubbles and irrational exuberance, in which exuberant investor behavior leads to overvaluation of assets.
 
@@ -250,7 +248,7 @@ Author James Montier looks at the psychological aspects of investing and examine
 James Surowiecki's book addresses the concept that large groups of people collectively have higher intelligence than individual experts. Surowiecki supports his argument with various case studies and anecdotes from different fields.
 
 
-#### Risk and Uncertainty
+### Risk and Uncertainty
 - [Against the Gods](https://www.goodreads.com/book/show/128429.Against_the_Gods) - Peter L. Bernstein, 1996 </br>
 Bernstein takes the reader on a journey through time, showing how societies throughout history have dealt with uncertainty and developed methods for measuring and managing risk. The author shows the profound impact of risk and probability on human decision making and the development of modern finance.
 
@@ -263,18 +261,63 @@ Mallouk's work discusses the most common mistakes investors make and how to avoi
 - [The Black Swan](https://en.wikipedia.org/wiki/The_Black_Swan:_The_Impact_of_the_Highly_Improbable) - Nassim Nicholas Taleb, 2007 </br>
 Taleb explores the concept of so-called black swans. These are rare and unpredictable events that have massive consequences and are often rationalized retroactively.
 
-#### Contemporary History
+### Contemporary History
 - [Dot.con: How America Lost Its Mind and Money in the Internet Era](https://www.goodreads.com/book/show/1308591.Dot_con) - John Cassidy, 2002 </br>
 Cassidy chronicles the rise and fall of the dot-com bubble with insight and flair. He introduces the key players and events that shaped the Internet era, from visionary entrepreneurs to ruthless investors.
 
-
 ## Most Important Stock Exchanges
 
-- 🇺🇸 [New York Stock Exchange (NYSE)](https://www.nyse.com) - Largest stock exchange in the world by market capitalization, with over 2,800 listed companies.
-- 🇺🇸 [NASDAQ](https://www.nasdaq.com) - Second largest stock exchange in the world by market capitalization, known for listing technology companies and having a high trading volume.
-- 🇯🇵 [Tokyo Stock Exchange (TSE)](https://www.jpx.co.jp/english/) - Third largest stock exchange in the world by market capitalization, and the largest in Asia.
-- 🇨🇳 [Shanghai Stock Exchange (SSE)](https://www.sse.com.cn/) - Fourth largest stock exchange in the world by market capitalization, and the largest in mainland China.
-- 🇭🇰 [Hong Kong Stock Exchange (HKEX)](https://www.hkex.com.hk/) - One of the largest stock exchanges in Asia, known for attracting international investors due to its strategic location and listing rules.
-- 🇬🇧 [London Stock Exchange (LSE)](https://www.londonstockexchange.com) - One of the oldest and most important stock exchanges in the world, with over 3,000 listed companies.
-- 🇪🇺 [Euronext](https://www.euronext.com/en) - A pan-European stock exchange operating in several countries, including France, the Netherlands, Belgium, Portugal, and Ireland.
-- 🇩🇪 [Frankfurt Stock Exchange (XETRA)](https://www.deutsche-boerse.com) - The largest stock exchange in Germany owned and operated by Deutsche Börse. 
+The following list outlines major stock exchanges of global relevance.
+Descriptions focus on structure, scope, and market role rather than time-dependent rankings.
+
+* 🇦🇺 **[Australian Securities Exchange (ASX)](https://www.asx.com.au)**
+  Primary securities exchange in Australia. Strong concentration in mining, commodities, and financial services.
+
+* 🇧🇷 **[B3 (Brasil, Bolsa, Balcão)](https://www.b3.com.br)**
+  The main exchange in Brazil and Latin America. Operates equities, derivatives, and clearing services.
+
+* 🇮🇳 **[Bombay Stock Exchange (BSE)](https://www.bseindia.com)**
+  Asia’s oldest stock exchange. Major venue for Indian equities and indices.
+
+* 🇩🇪 **[Frankfurter Wertpapierbörse (Börse Frankfurt)](https://www.boerse-frankfurt.de)**
+  Germany’s principal stock exchange, operated by Deutsche Börse.
+  Electronic trading is conducted via **[Xetra](https://www.xetra.com)**.
+
+* 🇭🇰 **[Hong Kong Stock Exchange (HKEX)](https://www.hkex.com.hk)**
+  Key international financial hub connecting Chinese and global capital markets.
+
+* 🇰🇷 **[Korea Exchange (KRX)](https://global.krx.co.kr)**
+  South Korea’s sole securities exchange operator, covering equities, derivatives, and bonds.
+
+* 🇬🇧 **[London Stock Exchange (LSE)](https://www.londonstockexchange.com)**
+  One of the world’s leading international listing venues, particularly for global and cross-border issuers.
+
+* 🇺🇸 **[NASDAQ](https://www.nasdaq.com)**
+  Electronic exchange with a strong focus on technology and growth-oriented companies.
+
+* 🇮🇳 **[National Stock Exchange of India (NSE)](https://www.nseindia.com)**
+  India’s largest exchange by trading volume, known for its fully electronic infrastructure.
+
+* 🇺🇸 **[New York Stock Exchange (NYSE)](https://www.nyse.com)**
+  Central venue for large-cap and blue-chip companies, operating a hybrid trading model.
+
+* 🇨🇳 **[Shanghai Stock Exchange (SSE)](https://www.sse.com.cn)**
+  Major mainland Chinese exchange, focused on large state-owned and industrial enterprises.
+
+* 🇨🇳 **[Shenzhen Stock Exchange (SZSE)](https://www.szse.cn)**
+  Chinese exchange with emphasis on growth, technology, and small- to mid-cap companies.
+
+* 🇸🇬 **[Singapore Exchange (SGX)](https://www.sgx.com)**
+  Regional financial hub with strengths in derivatives, commodities, and international listings.
+
+* 🇨🇭 **[SIX Swiss Exchange](https://www.six-group.com)**
+  Switzerland’s principal exchange, known for stability and strong representation of financial and life-science firms.
+
+* 🇯🇵 **[Tokyo Stock Exchange (TSE)](https://www.jpx.co.jp/english)**
+  Japan’s primary exchange, operated by Japan Exchange Group (JPX).
+
+* 🇨🇦 **[Toronto Stock Exchange (TSX)](https://www.tsx.com)**
+  Canada’s main equity market, globally relevant for mining and energy companies.
+
+* 🇪🇺 **[Euronext](https://www.euronext.com)**
+  Pan-European exchange group operating regulated markets in multiple European countries, including France, the Netherlands, Belgium, Ireland, Portugal, Italy, and Norway.
